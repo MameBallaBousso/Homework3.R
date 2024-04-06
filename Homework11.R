@@ -1,6 +1,6 @@
 
-########################### Fait par Papa Amadou NIANG ################################
-########### Application de la méthode de traitement des valeurs #######################
+
+######################## Traitement des valeurs #######################
 ################### aberrantes et manquantes sur R ####################################
 
 # Imporation de la base Table de coversion et cereales
