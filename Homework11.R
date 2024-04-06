@@ -1,5 +1,4 @@
-
-########################### Fait par Papa Amadou NIANG ################################
+ ################################
 ########### Application de la méthode de traitement des valeurs #######################
 ################### aberrantes et manquantes sur R ####################################
 
